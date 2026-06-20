@@ -1,4 +1,4 @@
--💫 About Me:<br>
+💫 About Me:<br>
 👋 I'm Lokesh<br><br>💻 Passionate about software development and problem solving.<br>🚀 Currently focused on improving my Data Structures & Algorithms skills and building real-world projects.<br>📚 Continuously learning and exploring modern technologies to strengthen my development journey.<br><br>📈 Coding Journey<br><br>I enjoy solving coding problems, learning efficient approaches, and improving my logical thinking every day. I believe consistency, curiosity, and practical implementation are the keys to growth in tech.<br><br>📫 Always open to learning, open source contribution, collaboration, and new opportunities.
 
 
