@@ -2,7 +2,7 @@
 👋 I'm Lokesh<br><br>💻 Passionate about software development and problem solving.<br>🚀 Currently focused on improving my Data Structures & Algorithms skills and building real-world projects.<br>📚 Continuously learning and exploring modern technologies to strengthen my development journey.<br><br>📈 Coding Journey<br><br>I enjoy solving coding problems, learning efficient approaches, and improving my logical thinking every day. I believe consistency, curiosity, and practical implementation are the keys to growth in tech.<br><br>📫 Always open to learning, open source contribution, collaboration, and new opportunities.
 
 
-## 🌐 Socials:
+🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/l_o_k_e_s_h_36) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-garhwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lokeshgarhwal1805@gmail.com) 
 
 # 💻 Tech Stack:
